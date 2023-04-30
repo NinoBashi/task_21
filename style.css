@@ -1,0 +1,103 @@
+@font-face{
+    font-family: OpenSans_Condensed-Medium;
+}
+*{
+    box-sizing: border-box;
+}
+
+.card{
+    display: flex;
+    align-items: center;
+    width: 1440px;
+    height: 40px;
+    background-image: url(Mini Header.png);
+    margin-left: 422px;
+}
+.pic2{
+    width: 133px;
+    height: 51px;
+}
+.nav{
+    width: 1440px;
+    height: 80px;
+    background-color: white;
+    display: flex;
+    align-items:  center;
+    justify-content: space-around;
+    margin-left: 422px;
+}
+.btn1{
+    width: 150px;
+    height: 40px;
+    border: 1px solid;
+    border-radius: 15px;
+}
+.box1{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+.box2{
+    font-family: OpenSans_Condensed-Medium;
+    width: 1440px;
+    display: flex;
+    justify-content:center;
+    margin-left:1000px;
+    color:rgba(59, 130, 62, 1);
+}
+.imgg{
+    width: 16px;
+    height: 16px;
+    margin-top: 4px;
+    margin-left: 5px;
+}
+.card1{
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+}
+.h2{
+padding-top: 50px;
+display: flex;
+justify-content: center;
+}
+.h3{
+    padding-top: 30px;
+    display: flex;
+    justify-content: center;
+}
+.card2{
+    display: flex;
+    justify-content: center;
+}
+.card3{
+    display: flex;
+    justify-content: center;
+}
+.card4{
+    display: flex;
+    justify-content: center;
+}
+.card5{
+    display: flex;
+    justify-content: center;
+}
+.card6{
+    display: flex;
+    justify-content: center;
+}
+.card7{
+    display: flex;
+    justify-content: center;
+}
+h3{
+font-family: OpenSans_Condensed-Medium;
+}
+.card8{
+    display: flex;
+    justify-content: center;
+}
+.card9{
+    display: flex;
+    justify-content: center;
+}
